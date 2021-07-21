@@ -26,6 +26,7 @@ ssh -o ServerAliveInterval=60 user@ip –p 22
 setting -> configuraton ->  ssh
 
  ![](data\MobaXterm1.png)
+ <p><img src="/data\MobaXterm1.png" alt="foo" title="title" /></p>
 
 勾选keepalive然后保存。
 
